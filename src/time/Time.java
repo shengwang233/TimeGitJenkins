@@ -23,6 +23,7 @@ public class Time
 {
 	public static void main(String[] args) 
 	{
+		//test jenkins
 		int totalSeconds = getTotalSeconds("10:10:10:00");
 		System.out.println("Github Seconds = "+totalSeconds);
 	}
