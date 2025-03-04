@@ -26,7 +26,6 @@ public class Time
 		//test jenkins
 		int totalSeconds = getTotalSeconds("10:10:10:00");
 		System.out.println("Github Seconds = "+totalSeconds);
-		System.out.println("Github Seconds = "+totalSeconds);
 	}
 	
 	
